@@ -1,0 +1,281 @@
+	.container-fluid.container-fluid-custom-1 {
+    	background-color: #195878;
+    	margin: 0;
+    	padding: 1px
+	}
+	#id{
+		overflow: hidden;
+	}
+	.sticky{
+		position: fixed;
+		top: 0;
+		width: 100%;
+	}
+	.container-fluid-custom-1 .page-header.page-header-custom-bg-blue{
+		/*border-bottom: none;
+	    padding-right: 15px;
+    	padding-left: 25px;*/
+	}
+	.pull-right-custome{
+		text-align: right;
+	}
+	 .col-md-3-fontcolor a {
+    	color: white;
+    	font-size: 14px;
+    	text-decoration: none
+	}
+	.row.mini-header.row.mini-header-custom .one{
+	    vertical-align: middle;
+	    position: relative;
+	    top: 14px;
+	}
+	i.fa.fa-phone {
+    	padding-right: 10px;
+	}
+	.brand-logo img{
+		width:55%;
+	}
+	span.glyphicon.glyphicon-envelope {
+    	padding-right: 10px;
+	}	
+	.col-md-3.col-md-3-fontcolor.bg-red {
+    	background-color: #f31e1e;
+    	padding: 15px;
+	}
+	li.list-group-item.list-group-icon-custom {
+    	display: inline;
+    	border: 0;
+    	background-color: transparent;
+	}
+	img {
+		width: 100%;
+		padding-right: 10px;
+	}
+	.navbar-header .navbar-header-custom {
+       background-color: white;
+    }
+    .navbar-header-custom ul.navbar-nav li{
+	    margin-left:15px;
+	}
+	.navbar-header-custom ul.nav.navbar-nav {
+	    padding-top: 0px;
+	}
+	.navbar-nav>li>a {
+		
+		line-height: 76px;
+	}
+	.navbar-header-custom ul.navbar-nav li.active{
+	    background-color: #e7e7e7;
+	}
+	.navbar-header-custom ul.navbar-nav li:hover{
+	    background-color: #e7e7e7;
+	}
+    .navbar-default{
+    	border-color: transparent;
+    }
+	.navbar-header-custom a{
+		font-size: 14px;
+		color: #195878;
+	}
+	.navbar-default .navbar-nav>li>a {
+  		color: teal;
+  		padding:10px;
+  		display: table-cell;
+    vertical-align: middle;
+	}
+	.padding-right-zero{
+		padding-right: 0;
+	}
+	.time.pull-right-custome.padding-right-zero {
+		float: right;
+	}
+	/* End navbar */
+	.time h4{
+		font-size: 14px;
+	    color: #3cd13cf7;
+	    padding-top:31px;
+	}
+	.col-md-2-image-padding.brand-logo {
+	  margin: 10px auto;
+	  margin-left: -35px;
+	}
+	.navbar-default {
+    	background-color: white;
+        border-color: none;
+        margin-bottom:0;
+        border-bottom:0;
+    }
+    .container-fluid-custom-2{
+    	background-image: url(https://media.istockphoto.com/photos/confident-female-doctor-at-office-desk-picture-id508387030?k=6&m=508387030&s=612x612&w=0&h=nxBwICODokliIjl5wP6-Hz8Cg7qZQyClIoKLHi3elfQ=);
+	    background-size: 100% 150%;
+	    padding: 50px;
+    }
+    .col-md-6 .col-md-6-custom-padding {
+    	padding: 50px;
+	}
+	button.btn.btn-default.btn-lg {
+    	border-radius: 0;
+    	border-color: #333;
+		border-style: dashed;
+		background-color: transparent;
+	}
+	.container.container-custom-1 {
+    	padding: 50px;
+	}
+	.row-custom-i i{
+    	border-radius: 40px;
+    	padding: 10px;
+    	box-shadow: 5px 5px #bab4b4;
+	}
+	.qualified-doctor {
+		/* float: left; */
+		/* margin: 0 auto; */
+		/* margin-right: -167px; */
+		margin-left: -35px;
+		/* vertical-align: middle; */
+		text-align: center;
+	}
+	.regular-checkup{
+		text-align: center;
+	}
+	.clinic-news{
+		text-align: center;
+	}
+	.lab-test{
+		text-align: center;
+	}
+	.row-custom-i h4{
+		padding: 5px;
+        color: #d30c0c;
+	}
+	.row-custom-i button.btn.btn-danger {
+    	background-color: #d30c0c;
+    	border-radius: 0;
+    	box-shadow: 5px 5px #bab4b4;
+	}
+	.container-fluid-custom-3{
+		padding: 20px;
+	}
+	.container-fluid-custom-3 .col-md-7-custom{
+		padding: 50px;
+		color: white;
+	}
+	.container-fluid-custom-3 .col-md-5 #img-2{
+ 		width: 80%;
+	}
+	.container-fluid-custom-3 .col-md-5 {
+    	padding-top: 45px;
+	}
+	.container-fluid.container-fluid-custom-3 {
+   		 background-color: #325370;
+	}
+	.container-fluid.container-custom-2{
+		padding: 30px;
+	}
+	.container.container-custom-2 {
+		padding-top: 25px;
+		padding-bottom: 10px;
+	}
+	.container-custom-2 button.btn.btn-lg.btn-lg-custom.center-block {
+	    border-radius: 0;
+	    padding: 15px;
+	    background-color: #d70c0c;
+	    color: white;
+	    padding-left: 75px;
+	    padding-right: 75px;
+	    font-size: 25px;
+	    border: 6px dashed white;
+	}
+	.meeting-button {
+		padding-top: 15px;
+		padding-bottom: 45px;
+	}
+	.col-sm-3.col-md-2-border {
+		border: 1px solid black;
+		margin: 4px;
+		width: 24%;
+	}
+	.doc-info {
+		background-color: #325370;
+		padding: 15px;
+		color: white;
+		text-align: center;
+		margin-left: -16px;
+    margin-right: -15px;
+	}
+	.container-fluid.container-custom-2 .row-custom-table{
+		padding: 10px;
+		padding-left: 18%;
+	}
+	.row-custom-table .col-md-2-border #image{
+		width: 100%;
+		height: 35%;
+	}
+	.container-custom-2 .row-custom-table .col-md-2-border .btn.btn-info.center-block{
+		    background-color: transparent;
+            border-style: dashed;
+			border-color: white;
+			border: 2px dashed white;
+    border-radius: 0;
+    width: 100%;
+	}
+	.container-fluid.container-fluid-custom-4 {
+		background-color: #f3efef;
+		
+	}
+	.container.container-custom-3 {
+		padding-top: 20px;
+		padding-bottom: 25px;
+	}
+	.col-md-4-custom-ul	li {
+		list-style-type: none;
+	}
+	.col-md-4-custom-ul a{
+		color: black;
+		text-decoration: none;
+	}
+	.mid-col{
+		margin-left: 34px;
+	}
+	input#usr {
+		width: 80%;
+		background-color: #325370;
+        color: white;
+	}
+	input#email {
+		width: 80%;
+		background-color: #325370;
+        color: white;
+	}
+	.col-sm-offset-2.col-sm-10 {
+		position: relative;
+	}
+	button#submit {
+		width: 95%;
+		margin: 0px;
+		background-color: #c91a1a;
+        color: white;
+		position: absolute;
+		left: -58px;
+	}
+	.container-custom-3 h3{
+		color: #325370;
+	}
+	.container-custom-3 p{
+		color: black;
+	}
+	.footer {
+		position: fixed;
+		left: 0;
+		bottom: 0;
+		width: 100%;
+		background-color: #325370;
+	}
+	.col-right{
+		border-right: 1px solid #c8c3c3;
+		/* display: flex;
+		justify-content: center; */
+	}
+	.col-middle{
+		border-right: 1px solid #c8c3c3;
+	}
